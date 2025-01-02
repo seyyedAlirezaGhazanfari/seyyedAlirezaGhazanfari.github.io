@@ -1,28 +1,28 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "name": "Alireza Ghazanfari",
+    "label": "Computer Science Student",
+    "email": "alireza79.ghazanfari@gmail.com"
   },
   "work": [
+    {
+      "name": "Digikala",
+      "position": "Software Engineer",
+      "url": "https://www.digikala.com/",
+      "startDate": "2022-07-01",
+      "endDate": "2023-02-28",
+      "summary": "As a backend developer, I gained valuable experience in Agile and Scrum methodologies while utilizing tools like Docker, Kubernetes, and Jira. During my role on the Promotions and Pricing team, I worked with PHP, Symfony, Redis, and Memcached.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
