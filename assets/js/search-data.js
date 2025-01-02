@@ -340,7 +340,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/assets/pdf/example_pdf.pdf";
+          window.location.href = "/assets/pdf/CV-2.pdf";
         
       },
     },{id: "post-a-post-with-diagrams",
