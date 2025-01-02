@@ -22,8 +22,3 @@ My academic journey has been fueled by curiosity and a commitment to innovation.
 Currently, I’m preparing for the next step in my academic career, with plans to pursue advanced studies in software engineering. My goal is to bridge gaps between research and practice, particularly by leveraging AI to enhance software development processes. Alongside my technical pursuits, I enjoy collaborating with like-minded individuals and engaging in interdisciplinary projects that push the boundaries of innovation.
 
 Feel free to explore my work or reach out—I’d love to connect and discuss exciting ideas in technology and beyond!
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
